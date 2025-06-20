@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+beautifulsoup4
+requests
+lxml
+extruct
+advertools
+networkx
+spacy
+textstat
